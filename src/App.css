@@ -4,7 +4,8 @@
   height: 1000vh;
   background-color: #edf7f8;
   z-index: 1;
-  position: relative;
+  display: flex;
+  flex-direction: column;
 }
 
 .App-logo {
