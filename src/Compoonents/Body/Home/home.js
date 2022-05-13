@@ -1,6 +1,6 @@
 import { React, useRef, useEffect } from "react";
-import "./home.css";
 import Lottie from "lottie-web";
+import "./home.css";
 import think from "../../../Animations/thinking-2.json";
 // import think2 from "../../../Animations/thinking-1.json";
 
