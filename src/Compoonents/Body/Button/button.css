@@ -1,15 +1,14 @@
 .button{
-    width: 250px;
+    width: 290px;
     height: 70px;
-    background-color: aqua;
+    background-color: rgb(31, 75, 75);
     padding: 10px;
     border-radius: 15px;
-    position: relative;
     border: none;
     font-size: 20px;
     font-family: 'Secular One', sans-serif;
     color: white; box-shadow: 0 1px 10px -6px rgb(0 0 0 / 42%), 0 1px 10px 0 rgb(0 0 0 / 12%),
     0 4px 5px -2px rgb(0 0 0 / 10%);
-top: 2%;
-left: -25%;
+    transform: translateX(70%);
+    cursor: pointer;
 }
